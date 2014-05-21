@@ -417,7 +417,7 @@
             <File>
               <FileName>usart.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\usart.c</FilePath>
+              <FilePath>.\usart.c</FilePath>
             </File>
             <File>
               <FileName>temperatureSensor.c</FileName>
